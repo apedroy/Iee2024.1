@@ -1,0 +1,1 @@
+Modelo feito no Simulink, utilizando de Model-based design, o código pode ser atribuído ao Arduino diretamente pelo Matlab. A frequência de acionamento do led pode ser alterada, ao mudar os parâmetros do gerador de pulso.
